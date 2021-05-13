@@ -1,0 +1,125 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+addOrderItems	controllers/orderController.js	/^const addOrderItems = asyncHandler(async (req, res) => {$/;"	F
+address	models/orderModel.js	/^      address: { type: String, required: true },$/;"	P
+authAdmin	middlewares/authMiddleware.js	/^const authAdmin = asyncHandler(async (req, res, next) => {$/;"	F
+authUser	middlewares/authMiddleware.js	/^const authUser = asyncHandler(async (req, res, next) => {$/;"	F
+brand	models/productModel.js	/^    brand: {$/;"	P
+category	controllers/categoryController.js	/^  const category = new Category({ user: req.user._id, name });$/;"	V
+category	controllers/productController.js	/^    category: id,$/;"	P
+category	models/productModel.js	/^    category: {$/;"	P
+checkFileType	utils/multer.js	/^const checkFileType = (file, cb) => {$/;"	F
+city	models/orderModel.js	/^      city: { type: String, required: true },$/;"	P
+comment	models/productModel.js	/^    comment: {$/;"	P
+connectDb	utils/db.js	/^const connectDb = async () => {$/;"	F
+countInStock	models/productModel.js	/^    countInStock: {$/;"	P
+country	models/orderModel.js	/^      country: { type: String, required: true },$/;"	P
+createCategory	controllers/categoryController.js	/^const createCategory = asyncHandler(async (req, res) => {$/;"	F
+createProduct	controllers/productController.js	/^const createProduct = asyncHandler(async (req, res) => {$/;"	F
+createProductReview	controllers/productController.js	/^const createProductReview = asyncHandler(async (req, res) => {$/;"	F
+default	models/orderModel.js	/^      default: false,$/;"	P
+default	models/productModel.js	/^      default: 0,$/;"	P
+default	models/userModel.js	/^      default: false,$/;"	P
+deleteCategory	controllers/categoryController.js	/^const deleteCategory = asyncHandler(async (req, res) => {$/;"	F
+deleteProduct	controllers/productController.js	/^const deleteProduct = asyncHandler(async (req, res) => {$/;"	F
+deleteUser	controllers/userController.js	/^const deleteUser = asyncHandler(async (req, res) => {$/;"	F
+deliveredAt	models/orderModel.js	/^    deliveredAt: {$/;"	P
+description	models/productModel.js	/^    description: {$/;"	P
+destination	utils/multer.js	/^  destination(req, file, cb) {$/;"	M
+email	models/userModel.js	/^    email: {$/;"	P
+email_address	models/orderModel.js	/^      email_address: { type: String },$/;"	P
+error	middlewares/errorMiddleware.js	/^  const error = new Error(`Not found - ${req.originalUrl}`);$/;"	V
+errorHandler	middlewares/errorMiddleware.js	/^const errorHandler = (err, req, res, next) => {$/;"	F
+exports	configs/env.js	/^module.exports = {$/;"	P
+exports	controllers/authController.js	/^module.exports = { loginUser };$/;"	P
+exports	controllers/categoryController.js	/^module.exports = {$/;"	P
+exports	controllers/orderController.js	/^module.exports = {$/;"	P
+exports	controllers/productController.js	/^module.exports = {$/;"	P
+exports	controllers/userController.js	/^module.exports = {$/;"	P
+exports	middlewares/authMiddleware.js	/^module.exports = { authUser, authAdmin };$/;"	P
+exports	middlewares/errorMiddleware.js	/^module.exports = { notFound, errorHandler };$/;"	P
+fileFilter	utils/multer.js	/^  fileFilter(req, file, cb) {$/;"	M
+fileTypes	utils/multer.js	/^  const fileTypes = \/jpeg|jpg|png\/;$/;"	V
+filename	utils/multer.js	/^  filename(req, file, cb) {$/;"	M
+generateToken	utils/generateToken.js	/^const generateToken = (id) => {$/;"	F
+getAllCategories	controllers/categoryController.js	/^const getAllCategories = asyncHandler(async (req, res) => {$/;"	F
+getAllOrders	controllers/orderController.js	/^const getAllOrders = asyncHandler(async (req, res) => {$/;"	F
+getAllOrdersByAdmin	controllers/orderController.js	/^const getAllOrdersByAdmin = asyncHandler(async (req, res) => {$/;"	F
+getAllProducts	controllers/productController.js	/^const getAllProducts = asyncHandler(async (req, res) => {$/;"	F
+getAllUsers	controllers/userController.js	/^const getAllUsers = asyncHandler(async (req, res) => {$/;"	F
+getCategoryById	controllers/categoryController.js	/^const getCategoryById = asyncHandler(async (req, res) => {$/;"	F
+getMyProfile	controllers/userController.js	/^const getMyProfile = asyncHandler(async (req, res) => {$/;"	F
+getOrderById	controllers/orderController.js	/^const getOrderById = asyncHandler(async (req, res) => {$/;"	F
+getProductById	controllers/productController.js	/^const getProductById = asyncHandler(async (req, res) => {$/;"	F
+getUserById	controllers/userController.js	/^const getUserById = asyncHandler(async (req, res) => {$/;"	F
+id	models/orderModel.js	/^      id: { type: String },$/;"	P
+image	models/orderModel.js	/^        image: { type: String, required: true },$/;"	P
+image	models/productModel.js	/^    image: {$/;"	P
+isAdmin	models/userModel.js	/^    isAdmin: {$/;"	P
+isDelivered	models/orderModel.js	/^    isDelivered: {$/;"	P
+isPaid	models/orderModel.js	/^    isPaid: {$/;"	P
+loginUser	controllers/authController.js	/^const loginUser = asyncHandler(async (req, res) => {$/;"	F
+message	controllers/userController.js	/^    message: "Updated success.",$/;"	P
+name	models/categoryModel.js	/^    name: {$/;"	P
+name	models/orderModel.js	/^        name: { type: String, required: true },$/;"	P
+name	models/productModel.js	/^    name: {$/;"	P
+name	models/userModel.js	/^    name: {$/;"	P
+notFound	middlewares/errorMiddleware.js	/^const notFound = (req, res, next) => {$/;"	F
+order	controllers/orderController.js	/^    const order = new Order({$/;"	V
+orderItems	models/orderModel.js	/^    orderItems: [$/;"	P
+paidAt	models/orderModel.js	/^    paidAt: {$/;"	P
+password	models/userModel.js	/^    password: {$/;"	P
+paymentMethod	models/orderModel.js	/^    paymentMethod: {$/;"	P
+paymentResult	controllers/orderController.js	/^  order.paymentResult = {$/;"	P
+paymentResult	models/orderModel.js	/^    paymentResult: {$/;"	P
+postalCode	models/orderModel.js	/^      postalCode: { type: String, required: true },$/;"	P
+price	models/orderModel.js	/^        price: { type: Number, required: true },$/;"	P
+price	models/productModel.js	/^    price: {$/;"	P
+product	controllers/productController.js	/^  const product = new Product({$/;"	V
+product	models/orderModel.js	/^        product: {$/;"	P
+qty	models/orderModel.js	/^        qty: { type: Number, required: true },$/;"	P
+rating	models/productModel.js	/^    rating: {$/;"	P
+ref	models/categoryModel.js	/^      ref: "user",$/;"	P
+ref	models/orderModel.js	/^          ref: "product",$/;"	P
+ref	models/orderModel.js	/^      ref: "user",$/;"	P
+ref	models/productModel.js	/^      ref: "category",$/;"	P
+ref	models/productModel.js	/^      ref: "user",$/;"	P
+registerUser	controllers/userController.js	/^const registerUser = asyncHandler(async (req, res) => {$/;"	F
+required	models/categoryModel.js	/^      required: true,$/;"	P
+required	models/orderModel.js	/^          required: true,$/;"	P
+required	models/orderModel.js	/^      required: true,$/;"	P
+required	models/productModel.js	/^      required: true,$/;"	P
+required	models/userModel.js	/^      required: true,$/;"	P
+review	controllers/productController.js	/^  const review = {$/;"	O
+reviews	models/productModel.js	/^    reviews: [reviewSchema],$/;"	P
+shippingAddress	models/orderModel.js	/^    shippingAddress: {$/;"	P
+shippingPrice	models/orderModel.js	/^    shippingPrice: { type: Number, required: true },$/;"	P
+status	models/orderModel.js	/^      status: { type: String },$/;"	P
+taxPrice	models/orderModel.js	/^    taxPrice: { type: Number, required: true },$/;"	P
+token	middlewares/authMiddleware.js	/^  let token;$/;"	V
+totalPrice	models/orderModel.js	/^    totalPrice: { type: Number, required: true },$/;"	P
+type	models/categoryModel.js	/^      type: String,$/;"	P
+type	models/orderModel.js	/^      type: Boolean,$/;"	P
+type	models/orderModel.js	/^      type: Date,$/;"	P
+type	models/orderModel.js	/^      type: String,$/;"	P
+type	models/productModel.js	/^      type: Number,$/;"	P
+type	models/productModel.js	/^      type: String,$/;"	P
+type	models/userModel.js	/^      type: Boolean,$/;"	P
+type	models/userModel.js	/^      type: String,$/;"	P
+unique	models/userModel.js	/^      unique: true,$/;"	P
+updateDeliverOrder	controllers/orderController.js	/^const updateDeliverOrder = asyncHandler(async (req, res) => {$/;"	F
+updateMyProfile	controllers/userController.js	/^const updateMyProfile = asyncHandler(async (req, res) => {$/;"	F
+updatePaidOrder	controllers/orderController.js	/^const updatePaidOrder = asyncHandler(async (req, res) => {$/;"	F
+updateProduct	controllers/productController.js	/^const updateProduct = asyncHandler(async (req, res) => {$/;"	F
+updateUser	controllers/userController.js	/^const updateUser = asyncHandler(async (req, res) => {$/;"	F
+update_item	models/orderModel.js	/^      update_item: { type: String },$/;"	P
+useCreateIndex	utils/db.js	/^      useCreateIndex: true,$/;"	P
+useNewUrlParser	utils/db.js	/^      useNewUrlParser: true,$/;"	P
+useUnifiedTopology	utils/db.js	/^      useUnifiedTopology: true,$/;"	P
+user	models/categoryModel.js	/^    user: {$/;"	P
+user	models/orderModel.js	/^    user: {$/;"	P
+user	models/productModel.js	/^    user: {$/;"	P

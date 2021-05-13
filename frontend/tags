@@ -1,0 +1,497 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+.form__group	src/index.css	/^.form__group {$/;"	c
+CART_ADD_ITEM	src/constants/cartConstants.jsx	/^export const CART_ADD_ITEM = "CART_ADD_ITEM";$/;"	E
+CART_REMOVE_ITEM	src/constants/cartConstants.jsx	/^export const CART_REMOVE_ITEM = "CART_REMOVE_ITEM";$/;"	E
+CART_RESET	src/constants/cartConstants.jsx	/^export const CART_RESET = "CART_RESET";$/;"	E
+CART_SAVE_PAYMENT_METHOD	src/constants/cartConstants.jsx	/^export const CART_SAVE_PAYMENT_METHOD = "CART_SAVE_PAYMENT_METHOD";$/;"	E
+CART_SAVE_SHIPPING_ADDRESS	src/constants/cartConstants.jsx	/^export const CART_SAVE_SHIPPING_ADDRESS = "CART_SAVE_SHIPPING_ADDRESS";$/;"	E
+CATEGORY_LIST_FAIL	src/constants/categoryContants.jsx	/^export const CATEGORY_LIST_FAIL = "CATEGORY_LIST_FAIL";$/;"	E
+CATEGORY_LIST_REQUEST	src/constants/categoryContants.jsx	/^export const CATEGORY_LIST_REQUEST = "CATEGORY_LIST_REQUEST";$/;"	E
+CATEGORY_LIST_SUCCESS	src/constants/categoryContants.jsx	/^export const CATEGORY_LIST_SUCCESS = "CATEGORY_LIST_SUCCESS";$/;"	E
+ORDER_CREATE_FAIL	src/constants/orderConstants.jsx	/^export const ORDER_CREATE_FAIL = "ORDER_CREATE_FAIL";$/;"	E
+ORDER_CREATE_REQUEST	src/constants/orderConstants.jsx	/^export const ORDER_CREATE_REQUEST = "ORDER_CREATE_REQUEST";$/;"	E
+ORDER_CREATE_SUCCESS	src/constants/orderConstants.jsx	/^export const ORDER_CREATE_SUCCESS = "ORDER_CREATE_SUCCESS";$/;"	E
+ORDER_DELIVER_FAIL	src/constants/orderConstants.jsx	/^export const ORDER_DELIVER_FAIL = "ORDER_DELIVER_FAIL";$/;"	E
+ORDER_DELIVER_REQUEST	src/constants/orderConstants.jsx	/^export const ORDER_DELIVER_REQUEST = "ORDER_DELIVER_REQUEST";$/;"	E
+ORDER_DELIVER_RESET	src/constants/orderConstants.jsx	/^export const ORDER_DELIVER_RESET = "ORDER_DELIVER_RESET";$/;"	E
+ORDER_DELIVER_SUCCESS	src/constants/orderConstants.jsx	/^export const ORDER_DELIVER_SUCCESS = "ORDER_DELIVER_SUCCESS";$/;"	E
+ORDER_DETAILS_FAIL	src/constants/orderConstants.jsx	/^export const ORDER_DETAILS_FAIL = "ORDER_DETAILS_FAIL";$/;"	E
+ORDER_DETAILS_REQUEST	src/constants/orderConstants.jsx	/^export const ORDER_DETAILS_REQUEST = "ORDER_DETAILS_REQUEST";$/;"	E
+ORDER_DETAILS_RESET	src/constants/orderConstants.jsx	/^export const ORDER_DETAILS_RESET = "ORDER_DETAILS_RESET";$/;"	E
+ORDER_DETAILS_SUCCESS	src/constants/orderConstants.jsx	/^export const ORDER_DETAILS_SUCCESS = "ORDER_DETAILS_SUCCESS";$/;"	E
+ORDER_LIST_ADMIN_FAIL	src/constants/orderConstants.jsx	/^export const ORDER_LIST_ADMIN_FAIL = "ORDER_LIST_ADMIN_FAIL";$/;"	E
+ORDER_LIST_ADMIN_REQUEST	src/constants/orderConstants.jsx	/^export const ORDER_LIST_ADMIN_REQUEST = "ORDER_LIST_ADMIN_REQUEST";$/;"	E
+ORDER_LIST_ADMIN_SUCCESS	src/constants/orderConstants.jsx	/^export const ORDER_LIST_ADMIN_SUCCESS = "ORDER_LIST_ADMIN_SUCCESS";$/;"	E
+ORDER_LIST_FAIL	src/constants/orderConstants.jsx	/^export const ORDER_LIST_FAIL = "ORDER_LIST_FAIL";$/;"	E
+ORDER_LIST_REQUEST	src/constants/orderConstants.jsx	/^export const ORDER_LIST_REQUEST = "ORDER_LIST_REQUEST";$/;"	E
+ORDER_LIST_RESET	src/constants/orderConstants.jsx	/^export const ORDER_LIST_RESET = "ORDER_LIST_RESET";$/;"	E
+ORDER_LIST_SUCCESS	src/constants/orderConstants.jsx	/^export const ORDER_LIST_SUCCESS = "ORDER_LIST_SUCCESS";$/;"	E
+ORDER_PAY_FAIL	src/constants/orderConstants.jsx	/^export const ORDER_PAY_FAIL = "ORDER_PAY_FAIL";$/;"	E
+ORDER_PAY_REQUEST	src/constants/orderConstants.jsx	/^export const ORDER_PAY_REQUEST = "ORDER_PAY_REQUEST";$/;"	E
+ORDER_PAY_RESET	src/constants/orderConstants.jsx	/^export const ORDER_PAY_RESET = "ORDER_PAY_RESET";$/;"	E
+ORDER_PAY_SUCCESS	src/constants/orderConstants.jsx	/^export const ORDER_PAY_SUCCESS = "ORDER_PAY_SUCCESS";$/;"	E
+PRODUCTS_LIST_FAIL	src/constants/productConstants.jsx	/^export const PRODUCTS_LIST_FAIL = "PRODUCTS_LIST_FAIL";$/;"	E
+PRODUCTS_LIST_REQUEST	src/constants/productConstants.jsx	/^export const PRODUCTS_LIST_REQUEST = "PRODUCTS_LIST_REQUEST";$/;"	E
+PRODUCTS_LIST_SUCCESS	src/constants/productConstants.jsx	/^export const PRODUCTS_LIST_SUCCESS = "PRODUCTS_LIST_SUCCESS";$/;"	E
+PRODUCT_CREATE_FAIL	src/constants/productConstants.jsx	/^export const PRODUCT_CREATE_FAIL = "PRODUCT_CREATE_FAIL";$/;"	E
+PRODUCT_CREATE_REQUEST	src/constants/productConstants.jsx	/^export const PRODUCT_CREATE_REQUEST = "PRODUCT_CREATE_REQUEST";$/;"	E
+PRODUCT_CREATE_RESET	src/constants/productConstants.jsx	/^export const PRODUCT_CREATE_RESET = "PRODUCT_CREATE_RESET";$/;"	E
+PRODUCT_CREATE_REVIEW_FAIL	src/constants/productConstants.jsx	/^export const PRODUCT_CREATE_REVIEW_FAIL = "PRODUCT_CREATE_REVIEW_FAIL";$/;"	E
+PRODUCT_CREATE_REVIEW_REQUEST	src/constants/productConstants.jsx	/^export const PRODUCT_CREATE_REVIEW_REQUEST = "PRODUCT_CREATE_REVIEW_REQUEST";$/;"	E
+PRODUCT_CREATE_REVIEW_RESET	src/constants/productConstants.jsx	/^export const PRODUCT_CREATE_REVIEW_RESET = "PRODUCT_CREATE_REVIEW_RESET";$/;"	E
+PRODUCT_CREATE_REVIEW_SUCCESS	src/constants/productConstants.jsx	/^export const PRODUCT_CREATE_REVIEW_SUCCESS = "PRODUCT_CREATE_REVIEW_SUCCESS";$/;"	E
+PRODUCT_CREATE_SUCCESS	src/constants/productConstants.jsx	/^export const PRODUCT_CREATE_SUCCESS = "PRODUCT_CREATE_SUCCESS";$/;"	E
+PRODUCT_DELETE_FAIL	src/constants/productConstants.jsx	/^export const PRODUCT_DELETE_FAIL = "PRODUCT_DELETE_FAIL";$/;"	E
+PRODUCT_DELETE_REQUEST	src/constants/productConstants.jsx	/^export const PRODUCT_DELETE_REQUEST = "PRODUCT_DELETE_REQUEST";$/;"	E
+PRODUCT_DELETE_RESET	src/constants/productConstants.jsx	/^export const PRODUCT_DELETE_RESET = "PRODUCT_DELETE_RESET";$/;"	E
+PRODUCT_DELETE_SUCCESS	src/constants/productConstants.jsx	/^export const PRODUCT_DELETE_SUCCESS = "PRODUCT_DELETE_SUCCESS";$/;"	E
+PRODUCT_DETAILS_FAIL	src/constants/productConstants.jsx	/^export const PRODUCT_DETAILS_FAIL = "PRODUCT_DETAILS_FAIL";$/;"	E
+PRODUCT_DETAILS_REQUEST	src/constants/productConstants.jsx	/^export const PRODUCT_DETAILS_REQUEST = "PRODUCT_DETAILS_REQUEST";$/;"	E
+PRODUCT_DETAILS_RESET	src/constants/productConstants.jsx	/^export const PRODUCT_DETAILS_RESET = "PRODUCT_DETAILS_RESET";$/;"	E
+PRODUCT_DETAILS_SUCCESS	src/constants/productConstants.jsx	/^export const PRODUCT_DETAILS_SUCCESS = "PRODUCT_DETAILS_SUCCESS";$/;"	E
+PRODUCT_UPDATE_FAIL	src/constants/productConstants.jsx	/^export const PRODUCT_UPDATE_FAIL = "PRODUCT_UPDATE_FAIL";$/;"	E
+PRODUCT_UPDATE_REQUEST	src/constants/productConstants.jsx	/^export const PRODUCT_UPDATE_REQUEST = "PRODUCT_UPDATE_REQUEST";$/;"	E
+PRODUCT_UPDATE_RESET	src/constants/productConstants.jsx	/^export const PRODUCT_UPDATE_RESET = "PRODUCT_UPDATE_RESET";$/;"	E
+PRODUCT_UPDATE_SUCCESS	src/constants/productConstants.jsx	/^export const PRODUCT_UPDATE_SUCCESS = "PRODUCT_UPDATE_SUCCESS";$/;"	E
+Router	src/App.jsx	/^import { BrowserRouter as Router, Route, Switch } from "react-router-dom";$/;"	I
+USERS_LIST_FAIL	src/constants/userConstants.jsx	/^export const USERS_LIST_FAIL = "USERS_LIST_FAIL";$/;"	E
+USERS_LIST_REQUEST	src/constants/userConstants.jsx	/^export const USERS_LIST_REQUEST = "USERS_LIST_REQUEST";$/;"	E
+USERS_LIST_SUCCESS	src/constants/userConstants.jsx	/^export const USERS_LIST_SUCCESS = "USERS_LIST_SUCCESS";$/;"	E
+USER_DELETE_FAIL	src/constants/userConstants.jsx	/^export const USER_DELETE_FAIL = "USER_DELETE_FAIL";$/;"	E
+USER_DELETE_REQUEST	src/constants/userConstants.jsx	/^export const USER_DELETE_REQUEST = "USER_DELETE_REQUEST";$/;"	E
+USER_DELETE_RESET	src/constants/userConstants.jsx	/^export const USER_DELETE_RESET = "USER_DELETE_RESET";$/;"	E
+USER_DELETE_SUCCESS	src/constants/userConstants.jsx	/^export const USER_DELETE_SUCCESS = "USER_DELETE_SUCCESS";$/;"	E
+USER_DETAILS_FAIL	src/constants/userConstants.jsx	/^export const USER_DETAILS_FAIL = "USER_DETAILS_FAIL";$/;"	E
+USER_DETAILS_REQUEST	src/constants/userConstants.jsx	/^export const USER_DETAILS_REQUEST = "USER_DETAILS_REQUEST";$/;"	E
+USER_DETAILS_RESET	src/constants/userConstants.jsx	/^export const USER_DETAILS_RESET = "USER_DETAILS_RESET";$/;"	E
+USER_DETAILS_SUCCESS	src/constants/userConstants.jsx	/^export const USER_DETAILS_SUCCESS = "USER_DETAILS_SUCCESS";$/;"	E
+USER_LOGIN_FAIL	src/constants/userConstants.jsx	/^export const USER_LOGIN_FAIL = "USER_LOGIN_FAIL";$/;"	E
+USER_LOGIN_REQUEST	src/constants/userConstants.jsx	/^export const USER_LOGIN_REQUEST = "USER_LOGIN_REQUEST";$/;"	E
+USER_LOGIN_SUCCESS	src/constants/userConstants.jsx	/^export const USER_LOGIN_SUCCESS = "USER_LOGIN_SUCCESS";$/;"	E
+USER_LOGOUT	src/constants/userConstants.jsx	/^export const USER_LOGOUT = "USER_LOGOUT";$/;"	E
+USER_REGISTER_FAIL	src/constants/userConstants.jsx	/^export const USER_REGISTER_FAIL = "USER_REGISTER_FAIL";$/;"	E
+USER_REGISTER_REQUEST	src/constants/userConstants.jsx	/^export const USER_REGISTER_REQUEST = "USER_REGISTER_REQUEST";$/;"	E
+USER_REGISTER_SUCCESS	src/constants/userConstants.jsx	/^export const USER_REGISTER_SUCCESS = "USER_REGISTER_SUCCESS";$/;"	E
+USER_UPDATE_ADMIN_FAIL	src/constants/userConstants.jsx	/^export const USER_UPDATE_ADMIN_FAIL = "USER_UPDATE_ADMIN_FAIL";$/;"	E
+USER_UPDATE_ADMIN_REQUEST	src/constants/userConstants.jsx	/^export const USER_UPDATE_ADMIN_REQUEST = "USER_UPDATE_ADMIN_REQUEST";$/;"	E
+USER_UPDATE_ADMIN_RESET	src/constants/userConstants.jsx	/^export const USER_UPDATE_ADMIN_RESET = "USER_UPDATE_ADMIN_RESET";$/;"	E
+USER_UPDATE_ADMIN_SUCCESS	src/constants/userConstants.jsx	/^export const USER_UPDATE_ADMIN_SUCCESS = "USER_UPDATE_ADMIN_SUCCESS";$/;"	E
+USER_UPDATE_FAIL	src/constants/userConstants.jsx	/^export const USER_UPDATE_FAIL = "USER_UPDATE_FAIL";$/;"	E
+USER_UPDATE_REQUEST	src/constants/userConstants.jsx	/^export const USER_UPDATE_REQUEST = "USER_UPDATE_REQUEST";$/;"	E
+USER_UPDATE_RESET	src/constants/userConstants.jsx	/^export const USER_UPDATE_RESET = "USER_UPDATE_RESET";$/;"	E
+USER_UPDATE_SUCCESS	src/constants/userConstants.jsx	/^export const USER_UPDATE_SUCCESS = "USER_UPDATE_SUCCESS";$/;"	E
+a	src/index.css	/^a {$/;"	t
+action	src/reducers/categoryReducers.jsx	/^export const categoriesListReducer = (state = {}, action) => {$/;"	E
+action	src/reducers/orderReducers.jsx	/^export const orderCreateReducer = (state = {}, action) => {$/;"	E
+action	src/reducers/orderReducers.jsx	/^export const orderDeliverReducer = (state = {}, action) => {$/;"	E
+action	src/reducers/orderReducers.jsx	/^export const orderListAdminReducer = (state = { orders: [] }, action) => {$/;"	E
+action	src/reducers/orderReducers.jsx	/^export const orderListReducer = (state = { orders: [] }, action) => {$/;"	E
+action	src/reducers/orderReducers.jsx	/^export const orderPayReducer = (state = {}, action) => {$/;"	E
+action	src/reducers/productReducers.jsx	/^export const productCreateReducer = (state = {}, action) => {$/;"	E
+action	src/reducers/productReducers.jsx	/^export const productCreateReviewReducer = (state = {}, action) => {$/;"	E
+action	src/reducers/productReducers.jsx	/^export const productDeleteReducer = (state = {}, action) => {$/;"	E
+action	src/reducers/productReducers.jsx	/^export const productDetailsReducer = (state = {}, action) => {$/;"	E
+action	src/reducers/productReducers.jsx	/^export const productUpdateReducer = (state = {}, action) => {$/;"	E
+action	src/reducers/productReducers.jsx	/^export const productsListReducer = (state = { products: [] }, action) => {$/;"	E
+action	src/reducers/userReducers.jsx	/^export const userDeleteReducer = (state = {}, action) => {$/;"	E
+action	src/reducers/userReducers.jsx	/^export const userDetailsReducer = (state = { user: {} }, action) => {$/;"	E
+action	src/reducers/userReducers.jsx	/^export const userLoginReducer = (state = {}, action) => {$/;"	E
+action	src/reducers/userReducers.jsx	/^export const userRegisterReducer = (state = {}, action) => {$/;"	E
+action	src/reducers/userReducers.jsx	/^export const userUpdateAdminReducer = (state = {}, action) => {$/;"	E
+action	src/reducers/userReducers.jsx	/^export const userUpdateReducer = (state = {}, action) => {$/;"	E
+action	src/reducers/userReducers.jsx	/^export const usersListReducer = (state = { users: [] }, action) => {$/;"	E
+addDecimals	src/components/Product.jsx	/^  const addDecimals = (num) => {$/;"	F
+addDecimals	src/pages/OrderPage.jsx	/^    const addDecimals = (num) => {$/;"	F
+addDecimals	src/pages/PlaceOrderPage.jsx	/^  const addDecimals = (num) => {$/;"	F
+addDecimals	src/pages/ProductDetailsPage.jsx	/^  const addDecimals = (num) => {$/;"	F
+addPayPalScript	src/pages/OrderPage.jsx	/^    const addPayPalScript = async () => {$/;"	F
+addToCart	src/actions/cartActions.jsx	/^export const addToCart = (id, qty) => async (dispatch, getState) => {$/;"	E
+admin	src/actions/userActions.jsx	/^export const getUserDetails = (id, admin = false) => async ($/;"	E
+admin	src/actions/userActions.jsx	/^export const updateUserDetails = (user, admin = false) => async ($/;"	E
+alignItems	src/components/SearchBox.jsx	/^    alignItems: "center",$/;"	P
+alignItems	src/pages/OrderPage.jsx	/^    alignItems: "center",$/;"	P
+alignItems	src/pages/ProductDetailsPage.jsx	/^                      alignItems: "flex-start",$/;"	P
+alignItems	src/pages/ProductDetailsPage.jsx	/^    alignItems: "center",$/;"	P
+anchorOrigin	src/pages/admin/ProductsPage.jsx	/^  anchorOrigin: {$/;"	P
+anchorOrigin	src/pages/admin/UsersPage.jsx	/^  anchorOrigin: {$/;"	P
+backgroundColor	src/components/ButtonBack.jsx	/^    backgroundColor: "#212121",$/;"	P
+backgroundColor	src/components/SearchBox.jsx	/^    backgroundColor: "#222",$/;"	P
+backgroundColor	src/components/SearchBox.jsx	/^    backgroundColor: "#ddd",$/;"	P
+backgroundColor	src/pages/admin/UserProfilePage.jsx	/^    backgroundColor: "#212121",$/;"	P
+body	src/actions/userActions.jsx	/^    const body = {$/;"	O
+borderRadius	src/components/SearchBox.jsx	/^    borderRadius: "5px",$/;"	P
+btn	src/components/SearchBox.jsx	/^  btn: {$/;"	P
+btnBack	src/pages/admin/UserProfilePage.jsx	/^  btnBack: {$/;"	P
+btnGroup	src/pages/ProductDetailsPage.jsx	/^  btnGroup: {$/;"	P
+button	src/components/ButtonBack.jsx	/^  button: {$/;"	P
+cart	src/pages/CartPage.jsx	/^  const cart = useSelector((state) => state.cart);$/;"	F
+cart	src/pages/PlaceOrderPage.jsx	/^  const cart = useSelector((state) => state.cart);$/;"	F
+cart	src/pages/ShippingPage.jsx	/^  const cart = useSelector((state) => state.cart);$/;"	F
+cart	src/store.jsx	/^  cart: cartReducer,$/;"	P
+cart	src/store.jsx	/^  cart: {$/;"	P
+cartItems	src/reducers/cartReducers.jsx	/^          cartItems: [...state.cartItems, payload],$/;"	P
+cartItems	src/reducers/cartReducers.jsx	/^        cartItems: [],$/;"	P
+cartItems	src/store.jsx	/^    cartItems: cartItemsFromLocal,$/;"	P
+cartReducer	src/reducers/cartReducers.jsx	/^export const cartReducer = ($/;"	E
+categoriesList	src/pages/admin/ProductCreatePage.jsx	/^  const categoriesList = useSelector((state) => state.categoriesList);$/;"	F
+categoriesList	src/pages/admin/ProductEditPage.jsx	/^  const categoriesList = useSelector((state) => state.categoriesList);$/;"	F
+categoriesList	src/store.jsx	/^  categoriesList: categoriesListReducer,$/;"	P
+categoriesListReducer	src/reducers/categoryReducers.jsx	/^export const categoriesListReducer = (state = {}, action) => {$/;"	E
+categoryId	src/actions/productActions.jsx	/^export const createProduct = (product, categoryId) => async ($/;"	E
+categoryId	src/pages/admin/ProductEditPage.jsx	/^        categoryId: categorySelect,$/;"	P
+checkboxAdmin	src/pages/admin/UserProfilePage.jsx	/^  checkboxAdmin: {$/;"	P
+color	src/components/ButtonBack.jsx	/^    color: "#fff",$/;"	P
+color	src/components/Header.jsx	/^    color: "#fff",$/;"	P
+color	src/components/LinkHeader.jsx	/^    color: "#fff",$/;"	P
+color	src/pages/CartPage.jsx	/^    color: "#111",$/;"	P
+color	src/pages/OrderPage.jsx	/^                              color: "#222",$/;"	P
+color	src/pages/OrderPage.jsx	/^                  color: "#666",$/;"	P
+color	src/pages/admin/UserProfilePage.jsx	/^    color: "#fff",$/;"	P
+colorError	src/pages/admin/ProductsPage.jsx	/^  colorError: {$/;"	P
+colorError	src/pages/admin/UsersPage.jsx	/^  colorError: {$/;"	P
+comment	src/actions/productActions.jsx	/^export const createProductReview = (productId, comment, rating) => async ($/;"	E
+config	src/actions/categoryActions.jsx	/^    const config = {$/;"	O
+config	src/actions/orderActions.jsx	/^    const config = {$/;"	O
+config	src/actions/productActions.jsx	/^    const config = {$/;"	O
+config	src/actions/userActions.jsx	/^    const config = {$/;"	O
+config	src/pages/admin/ProductCreatePage.jsx	/^      const config = {$/;"	O
+config	src/pages/admin/ProductEditPage.jsx	/^      const config = {$/;"	O
+createOrder	src/actions/orderActions.jsx	/^export const createOrder = (order) => async (dispatch, getState) => {$/;"	E
+createProduct	src/actions/productActions.jsx	/^export const createProduct = (product, categoryId) => async ($/;"	E
+createProductReview	src/actions/productActions.jsx	/^export const createProductReview = (productId, comment, rating) => async ($/;"	E
+deleteProduct	src/actions/productActions.jsx	/^export const deleteProduct = (id) => async (dispatch, getState) => {$/;"	E
+deleteUser	src/actions/userActions.jsx	/^export const deleteUser = (id) => async (dispatch, getState) => {$/;"	E
+deliverOrder	src/actions/orderActions.jsx	/^export const deliverOrder = (order) => async (dispatch, getState) => {$/;"	E
+display	src/components/SearchBox.jsx	/^    display: "flex",$/;"	P
+display	src/pages/OrderPage.jsx	/^                  display: "flex",$/;"	P
+display	src/pages/OrderPage.jsx	/^    display: "flex",$/;"	P
+display	src/pages/ProductDetailsPage.jsx	/^                        display: "flex",$/;"	P
+display	src/pages/ProductDetailsPage.jsx	/^    display: "flex",$/;"	P
+display	src/pages/admin/UsersPage.jsx	/^    display: "flex",$/;"	P
+email	src/actions/userActions.jsx	/^export const register = ({ name, email, password }) => async (dispatch) => {$/;"	E
+error	src/pages/ProductDetailsPage.jsx	/^    error: errorReview,$/;"	P
+error	src/pages/ProfilePage.jsx	/^    error: errorOrderList,$/;"	P
+error	src/pages/ProfilePage.jsx	/^    error: errorUserDetails,$/;"	P
+error	src/pages/admin/ProductCreatePage.jsx	/^    error: errorCreate,$/;"	P
+error	src/pages/admin/ProductEditPage.jsx	/^    error: errorUpdate,$/;"	P
+error	src/pages/admin/ProductsPage.jsx	/^    error: errorDelete,$/;"	P
+error	src/pages/admin/UserProfilePage.jsx	/^    error: errorUpdateAdmin,$/;"	P
+error	src/pages/admin/UsersPage.jsx	/^    error: errorDelete,$/;"	P
+error	src/reducers/orderReducers.jsx	/^        error: payload,$/;"	P
+error	src/reducers/productReducers.jsx	/^        error: payload,$/;"	P
+error	src/reducers/userReducers.jsx	/^        error: payload,$/;"	P
+flexDirection	src/pages/OrderPage.jsx	/^                  flexDirection: "column",$/;"	P
+flexDirection	src/pages/ProductDetailsPage.jsx	/^                        flexDirection: "column",$/;"	P
+flexDirection	src/pages/ProductDetailsPage.jsx	/^                      flexDirection: "column",$/;"	P
+flexGrow	src/components/Header.jsx	/^    flexGrow: 1,$/;"	P
+fontSize	src/pages/OrderPage.jsx	/^                              fontSize: 19,$/;"	P
+fontWeight	src/pages/LoginPage.jsx	/^    fontWeight: "bolder",$/;"	P
+fontWeight	src/pages/ProductDetailsPage.jsx	/^    fontWeight: 600,$/;"	P
+fontWeight	src/pages/ProductDetailsPage.jsx	/^    fontWeight: 800,$/;"	P
+fontWeight	src/pages/RegisterPage.jsx	/^    fontWeight: "bolder",$/;"	P
+fontWeight	src/pages/admin/ProductCreatePage.jsx	/^    fontWeight: "bolder",$/;"	P
+fontWeight	src/pages/admin/ProductEditPage.jsx	/^    fontWeight: "bolder",$/;"	P
+fontWeight	src/pages/admin/UserProfilePage.jsx	/^    fontWeight: "bolder",$/;"	P
+form	src/components/SearchBox.jsx	/^  form: {$/;"	P
+formData	src/pages/admin/ProductCreatePage.jsx	/^    const formData = new FormData();$/;"	V
+formData	src/pages/admin/ProductEditPage.jsx	/^    const formData = new FormData();$/;"	V
+formSelect	src/pages/admin/ProductCreatePage.jsx	/^  formSelect: {$/;"	P
+formSelect	src/pages/admin/ProductEditPage.jsx	/^  formSelect: {$/;"	P
+getAllCategories	src/actions/categoryActions.jsx	/^export const getAllCategories = () => async (dispatch, getState) => {$/;"	E
+getAllOrders	src/actions/orderActions.jsx	/^export const getAllOrders = () => async (dispatch, getState) => {$/;"	E
+getAllOrdersByAdmin	src/actions/orderActions.jsx	/^export const getAllOrdersByAdmin = () => async (dispatch, getState) => {$/;"	E
+getAllProducts	src/actions/productActions.jsx	/^export const getAllProducts = (keyword = "") => async (dispatch) => {$/;"	E
+getAllUsers	src/actions/userActions.jsx	/^export const getAllUsers = () => async (dispatch, getState) => {$/;"	E
+getProductDetails	src/actions/productActions.jsx	/^export const getProductDetails = (id) => async (dispatch) => {$/;"	E
+getState	src/actions/cartActions.jsx	/^export const removeItemFromCart = (id) => async (dispatch, getState) => {$/;"	E
+getState	src/actions/categoryActions.jsx	/^export const getAllCategories = () => async (dispatch, getState) => {$/;"	E
+getState	src/actions/orderActions.jsx	/^export const createOrder = (order) => async (dispatch, getState) => {$/;"	E
+getState	src/actions/orderActions.jsx	/^export const deliverOrder = (order) => async (dispatch, getState) => {$/;"	E
+getState	src/actions/orderActions.jsx	/^export const getAllOrders = () => async (dispatch, getState) => {$/;"	E
+getState	src/actions/orderActions.jsx	/^export const getAllOrdersByAdmin = () => async (dispatch, getState) => {$/;"	E
+getState	src/actions/orderActions.jsx	/^export const orderDetailsById = (id) => async (dispatch, getState) => {$/;"	E
+getState	src/actions/productActions.jsx	/^export const deleteProduct = (id) => async (dispatch, getState) => {$/;"	E
+getState	src/actions/productActions.jsx	/^export const updateProduct = (product) => async (dispatch, getState) => {$/;"	E
+getState	src/actions/userActions.jsx	/^export const deleteUser = (id) => async (dispatch, getState) => {$/;"	E
+getState	src/actions/userActions.jsx	/^export const getAllUsers = () => async (dispatch, getState) => {$/;"	E
+getUserDetails	src/actions/userActions.jsx	/^export const getUserDetails = (id, admin = false) => async ($/;"	E
+groupBtn	src/pages/admin/UsersPage.jsx	/^  groupBtn: {$/;"	P
+handleAddToCart	src/pages/ProductDetailsPage.jsx	/^  const handleAddToCart = () => {$/;"	F
+handleCheckout	src/pages/CartPage.jsx	/^  const handleCheckout = () => {$/;"	F
+handleCreateProduct	src/pages/admin/ProductCreatePage.jsx	/^  const handleCreateProduct = (e) => {$/;"	F
+handleDeleteProduct	src/pages/admin/ProductsPage.jsx	/^  const handleDeleteProduct = (id) => {$/;"	F
+handleDeleteUser	src/pages/admin/UsersPage.jsx	/^  const handleDeleteUser = (id) => {$/;"	F
+handleDeliver	src/pages/OrderPage.jsx	/^  const handleDeliver = () => {$/;"	F
+handlePlaceOrder	src/pages/PlaceOrderPage.jsx	/^  const handlePlaceOrder = () => {$/;"	F
+handleRemoveItem	src/pages/CartPage.jsx	/^  const handleRemoveItem = (id) => {$/;"	F
+handleReview	src/pages/ProductDetailsPage.jsx	/^  const handleReview = (e) => {$/;"	F
+handleSubmit	src/components/SearchBox.jsx	/^  const handleSubmit = (e) => {$/;"	F
+handleSubmit	src/pages/LoginPage.jsx	/^  const handleSubmit = (e) => {$/;"	F
+handleSubmit	src/pages/PaymentPage.jsx	/^  const handleSubmit = (e) => {$/;"	F
+handleSubmit	src/pages/ProfilePage.jsx	/^  const handleSubmit = (e) => {$/;"	F
+handleSubmit	src/pages/RegisterPage.jsx	/^  const handleSubmit = (e) => {$/;"	F
+handleSubmit	src/pages/ShippingPage.jsx	/^  const handleSubmit = (e) => {$/;"	F
+handleSubmit	src/pages/admin/UserProfilePage.jsx	/^  const handleSubmit = (e) => {$/;"	F
+handleSuccessPayment	src/pages/OrderPage.jsx	/^  const handleSuccessPayment = (paymentResult) => {$/;"	F
+handleUpdateProduct	src/pages/admin/ProductEditPage.jsx	/^  const handleUpdateProduct = (e) => {$/;"	F
+handleUploadFile	src/pages/admin/ProductCreatePage.jsx	/^  const handleUploadFile = async (e) => {$/;"	F
+handleUploadFile	src/pages/admin/ProductEditPage.jsx	/^  const handleUploadFile = async (e) => {$/;"	F
+header	src/components/Header.jsx	/^  header: {$/;"	P
+headerBrand	src/components/Header.jsx	/^  headerBrand: {$/;"	P
+headers	src/actions/categoryActions.jsx	/^      headers: {$/;"	P
+headers	src/actions/orderActions.jsx	/^      headers: {$/;"	P
+headers	src/actions/productActions.jsx	/^      headers: {$/;"	P
+headers	src/actions/userActions.jsx	/^      headers: {$/;"	P
+headers	src/pages/admin/ProductCreatePage.jsx	/^        headers: {$/;"	P
+headers	src/pages/admin/ProductEditPage.jsx	/^        headers: {$/;"	P
+height	src/components/Product.jsx	/^    height: "130px",$/;"	P
+homeTitle	src/pages/HomePage.jsx	/^  homeTitle: {$/;"	P
+html	src/index.css	/^html {$/;"	t
+id	src/pages/admin/ProductCreatePage.jsx	/^                    id: "category",$/;"	P
+id	src/pages/admin/ProductEditPage.jsx	/^                    id: "category",$/;"	P
+imageProduct	src/components/Product.jsx	/^  imageProduct: {$/;"	P
+index	src/reducers/cartReducers.jsx	/^      const index = state.cartItems.findIndex((item) => item._id === payload);$/;"	F
+infoOptions	src/pages/ProductDetailsPage.jsx	/^  infoOptions: {$/;"	P
+infoProductSpecial	src/pages/ProductDetailsPage.jsx	/^  infoProductSpecial: {$/;"	P
+infoSpecial	src/pages/ProductDetailsPage.jsx	/^  infoSpecial: {$/;"	P
+initialState	src/store.jsx	/^const initialState = {$/;"	O
+input	src/components/SearchBox.jsx	/^  input: {$/;"	P
+itemAvatar	src/pages/CartPage.jsx	/^  itemAvatar: {$/;"	P
+justifyContent	src/pages/OrderPage.jsx	/^    justifyContent: "space-between",$/;"	P
+justifyContent	src/pages/ProductDetailsPage.jsx	/^    justifyContent: "flex-start",$/;"	P
+justifyContent	src/pages/admin/UsersPage.jsx	/^    justifyContent: "center",$/;"	P
+link	src/components/LinkHeader.jsx	/^  link: {$/;"	P
+linkItem	src/pages/CartPage.jsx	/^  linkItem: {$/;"	P
+listItem	src/pages/OrderPage.jsx	/^  listItem: {$/;"	P
+loading	src/pages/ProductDetailsPage.jsx	/^    loading: loadingReview,$/;"	P
+loading	src/pages/ProfilePage.jsx	/^    loading: loadingOrderList,$/;"	P
+loading	src/pages/ProfilePage.jsx	/^    loading: loadingUserDetails,$/;"	P
+loading	src/pages/admin/ProductCreatePage.jsx	/^    loading: loadingCreate,$/;"	P
+loading	src/pages/admin/ProductEditPage.jsx	/^    loading: loadingUpdate,$/;"	P
+loading	src/pages/admin/ProductsPage.jsx	/^    loading: loadingDelete,$/;"	P
+loading	src/pages/admin/UserProfilePage.jsx	/^    loading: loadingUpdateAdmin,$/;"	P
+loading	src/pages/admin/UsersPage.jsx	/^    loading: loadingDelete,$/;"	P
+loading	src/reducers/orderReducers.jsx	/^        loading: false,$/;"	P
+loading	src/reducers/productReducers.jsx	/^        loading: false,$/;"	P
+loading	src/reducers/productReducers.jsx	/^        loading: true,$/;"	P
+loading	src/reducers/userReducers.jsx	/^        loading: false,$/;"	P
+loading	src/reducers/userReducers.jsx	/^        loading: true,$/;"	P
+login	src/actions/userActions.jsx	/^export const login = ({ email, password }) => async (dispatch) => {$/;"	E
+logout	src/actions/userActions.jsx	/^export const logout = () => (dispatch) => {$/;"	E
+logoutHandle	src/components/Header.jsx	/^  const logoutHandle = () => {$/;"	F
+main	src/index.css	/^main {$/;"	t
+margin	src/pages/ProductDetailsPage.jsx	/^    margin: "0.5rem 0",$/;"	P
+margin	src/pages/ProductDetailsPage.jsx	/^    margin: "0.75rem 0",$/;"	P
+margin	src/pages/ProductDetailsPage.jsx	/^    margin: "10px 0",$/;"	P
+margin	src/pages/admin/UserProfilePage.jsx	/^    margin: "0.5rem 0",$/;"	P
+marginBottom	src/pages/HomePage.jsx	/^    marginBottom: "1rem",$/;"	P
+marginBottom	src/pages/LoginPage.jsx	/^    marginBottom: "1.5rem",$/;"	P
+marginBottom	src/pages/RegisterPage.jsx	/^    marginBottom: "1.5rem",$/;"	P
+marginBottom	src/pages/admin/ProductCreatePage.jsx	/^    marginBottom: "1.5rem",$/;"	P
+marginBottom	src/pages/admin/ProductEditPage.jsx	/^    marginBottom: "1.5rem",$/;"	P
+marginBottom	src/pages/admin/UserProfilePage.jsx	/^    marginBottom: "1.5rem",$/;"	P
+marginLeft	src/pages/LoginPage.jsx	/^    marginLeft: "1rem",$/;"	P
+marginLeft	src/pages/ProductDetailsPage.jsx	/^    marginLeft: "1rem",$/;"	P
+marginLeft	src/pages/RegisterPage.jsx	/^    marginLeft: "1rem",$/;"	P
+marginLeft	src/pages/admin/ProductCreatePage.jsx	/^    marginLeft: "1rem",$/;"	P
+marginLeft	src/pages/admin/ProductEditPage.jsx	/^    marginLeft: "1rem",$/;"	P
+marginLeft	src/pages/admin/UserProfilePage.jsx	/^    marginLeft: "1rem",$/;"	P
+marginRight	src/components/SearchBox.jsx	/^    marginRight: "2rem",$/;"	P
+marginRight	src/pages/ProductDetailsPage.jsx	/^    marginRight: "1rem",$/;"	P
+marginTop	src/pages/ProductDetailsPage.jsx	/^    marginTop: "1rem",$/;"	P
+message	src/pages/admin/ProductCreatePage.jsx	/^    message: messageCreate,$/;"	P
+message	src/pages/admin/ProductEditPage.jsx	/^    message: messageUpdate,$/;"	P
+message	src/pages/admin/ProductsPage.jsx	/^    message: messageDelete,$/;"	P
+message	src/pages/admin/UsersPage.jsx	/^    message: messageDelete,$/;"	P
+message	src/reducers/productReducers.jsx	/^        message: payload,$/;"	P
+message	src/reducers/userReducers.jsx	/^        message: payload,$/;"	P
+minWidth	src/pages/admin/ProductCreatePage.jsx	/^    minWidth: "140px",$/;"	P
+minWidth	src/pages/admin/ProductEditPage.jsx	/^    minWidth: "140px",$/;"	P
+name	src/pages/admin/ProductCreatePage.jsx	/^                    name: "category",$/;"	P
+name	src/pages/admin/ProductEditPage.jsx	/^                    name: "category",$/;"	P
+nameProduct	src/pages/ProductDetailsPage.jsx	/^  nameProduct: {$/;"	P
+onload	src/pages/OrderPage.jsx	/^      script.onload = () => {$/;"	M
+order	src/reducers/orderReducers.jsx	/^        order: payload,$/;"	P
+orderCreate	src/pages/PlaceOrderPage.jsx	/^  const orderCreate = useSelector((state) => state.orderCreate);$/;"	F
+orderCreate	src/store.jsx	/^  orderCreate: orderCreateReducer,$/;"	P
+orderCreateReducer	src/reducers/orderReducers.jsx	/^export const orderCreateReducer = (state = {}, action) => {$/;"	E
+orderDeliver	src/pages/OrderPage.jsx	/^  const orderDeliver = useSelector((state) => state.orderDeliver);$/;"	F
+orderDeliver	src/store.jsx	/^  orderDeliver: orderDeliverReducer,$/;"	P
+orderDeliverReducer	src/reducers/orderReducers.jsx	/^export const orderDeliverReducer = (state = {}, action) => {$/;"	E
+orderDetails	src/pages/OrderPage.jsx	/^  const orderDetails = useSelector((state) => state.orderDetails);$/;"	F
+orderDetails	src/store.jsx	/^  orderDetails: orderDetailsReducer,$/;"	P
+orderDetailsById	src/actions/orderActions.jsx	/^export const orderDetailsById = (id) => async (dispatch, getState) => {$/;"	E
+orderDetailsReducer	src/reducers/orderReducers.jsx	/^export const orderDetailsReducer = ($/;"	E
+orderItems	src/pages/PlaceOrderPage.jsx	/^        orderItems: cartItems,$/;"	P
+orderList	src/pages/ProfilePage.jsx	/^  const orderList = useSelector((state) => state.orderList);$/;"	F
+orderList	src/store.jsx	/^  orderList: orderListReducer,$/;"	P
+orderListAdmin	src/pages/admin/OrdersPage.jsx	/^  const orderListAdmin = useSelector((state) => state.orderListAdmin);$/;"	F
+orderListAdmin	src/store.jsx	/^  orderListAdmin: orderListAdminReducer,$/;"	P
+orderListAdminReducer	src/reducers/orderReducers.jsx	/^export const orderListAdminReducer = (state = { orders: [] }, action) => {$/;"	E
+orderListReducer	src/reducers/orderReducers.jsx	/^export const orderListReducer = (state = { orders: [] }, action) => {$/;"	E
+orderPay	src/pages/OrderPage.jsx	/^  const orderPay = useSelector((state) => state.orderPay);$/;"	F
+orderPay	src/store.jsx	/^  orderPay: orderPayReducer,$/;"	P
+orderPayReducer	src/reducers/orderReducers.jsx	/^export const orderPayReducer = (state = {}, action) => {$/;"	E
+orders	src/reducers/orderReducers.jsx	/^        orders: payload,$/;"	P
+padding	src/components/FormContainer.jsx	/^    padding: "3rem 2rem",$/;"	P
+padding	src/components/SearchBox.jsx	/^    padding: "0 5px",$/;"	P
+padding	src/pages/admin/UserProfilePage.jsx	/^    padding: "0.5rem 2rem",$/;"	P
+padding	src/pages/admin/UserProfilePage.jsx	/^    padding: 0,$/;"	P
+paddingBottom	src/pages/admin/UserProfilePage.jsx	/^    paddingBottom: "4px",$/;"	P
+paddingRight	src/pages/admin/UserProfilePage.jsx	/^    paddingRight: "5px",$/;"	P
+paddingTop	src/pages/admin/UserProfilePage.jsx	/^    paddingTop: "1.5rem",$/;"	P
+paperFormContainer	src/components/FormContainer.jsx	/^  paperFormContainer: {$/;"	P
+password	src/actions/userActions.jsx	/^export const login = ({ email, password }) => async (dispatch) => {$/;"	E
+password	src/actions/userActions.jsx	/^export const register = ({ name, email, password }) => async (dispatch) => {$/;"	E
+payOrder	src/actions/orderActions.jsx	/^export const payOrder = (id, paymentResult) => async (dispatch, getState) => {$/;"	E
+payload	src/actions/cartActions.jsx	/^      payload: {$/;"	P
+payload	src/actions/cartActions.jsx	/^    payload: { ...shippingAddress },$/;"	P
+paymentMethod	src/reducers/cartReducers.jsx	/^        paymentMethod: "",$/;"	P
+paymentMethod	src/reducers/cartReducers.jsx	/^        paymentMethod: payload,$/;"	P
+paymentMethod	src/store.jsx	/^    paymentMethod: paymentMethodFromLocal,$/;"	P
+paymentResult	src/actions/orderActions.jsx	/^export const payOrder = (id, paymentResult) => async (dispatch, getState) => {$/;"	E
+position	src/pages/admin/ProductsPage.jsx	/^    position: "absolute",$/;"	P
+position	src/pages/admin/UsersPage.jsx	/^    position: "absolute",$/;"	P
+priceProduct	src/pages/ProductDetailsPage.jsx	/^  priceProduct: {$/;"	P
+product	src/reducers/productReducers.jsx	/^        product: payload,$/;"	P
+productCreate	src/pages/admin/ProductCreatePage.jsx	/^  const productCreate = useSelector((state) => state.productCreate);$/;"	F
+productCreate	src/store.jsx	/^  productCreate: productCreateReducer,$/;"	P
+productCreateReducer	src/reducers/productReducers.jsx	/^export const productCreateReducer = (state = {}, action) => {$/;"	E
+productCreateReview	src/pages/ProductDetailsPage.jsx	/^  const productCreateReview = useSelector((state) => state.productCreateReview);$/;"	F
+productCreateReview	src/store.jsx	/^  productCreateReview: productCreateReviewReducer,$/;"	P
+productCreateReviewReducer	src/reducers/productReducers.jsx	/^export const productCreateReviewReducer = (state = {}, action) => {$/;"	E
+productDelete	src/pages/admin/ProductsPage.jsx	/^  const productDelete = useSelector((state) => state.productDelete);$/;"	F
+productDelete	src/store.jsx	/^  productDelete: productDeleteReducer,$/;"	P
+productDeleteReducer	src/reducers/productReducers.jsx	/^export const productDeleteReducer = (state = {}, action) => {$/;"	E
+productDetails	src/pages/ProductDetailsPage.jsx	/^  const productDetails = useSelector((state) => state.productDetails);$/;"	F
+productDetails	src/pages/admin/ProductEditPage.jsx	/^  const productDetails = useSelector((state) => state.productDetails);$/;"	F
+productDetails	src/store.jsx	/^  productDetails: productDetailsReducer,$/;"	P
+productDetailsReducer	src/reducers/productReducers.jsx	/^export const productDetailsReducer = (state = {}, action) => {$/;"	E
+productUpdate	src/pages/admin/ProductEditPage.jsx	/^  const productUpdate = useSelector((state) => state.productUpdate);$/;"	F
+productUpdate	src/store.jsx	/^  productUpdate: productUpdateReducer,$/;"	P
+productUpdateReducer	src/reducers/productReducers.jsx	/^export const productUpdateReducer = (state = {}, action) => {$/;"	E
+products	src/reducers/productReducers.jsx	/^        products: payload,$/;"	P
+productsList	src/pages/HomePage.jsx	/^  const productsList = useSelector((state) => state.productsList);$/;"	F
+productsList	src/pages/admin/ProductsPage.jsx	/^  const productsList = useSelector((state) => state.productsList);$/;"	F
+productsList	src/store.jsx	/^  productsList: productsListReducer,$/;"	P
+productsListReducer	src/reducers/productReducers.jsx	/^export const productsListReducer = (state = { products: [] }, action) => {$/;"	E
+qty	src/actions/cartActions.jsx	/^export const addToCart = (id, qty) => async (dispatch, getState) => {$/;"	E
+quantity	src/pages/ProductDetailsPage.jsx	/^  quantity: {$/;"	P
+quantityLabel	src/pages/ProductDetailsPage.jsx	/^  quantityLabel: {$/;"	P
+rating	src/actions/productActions.jsx	/^export const createProductReview = (productId, comment, rating) => async ($/;"	E
+register	src/actions/userActions.jsx	/^export const register = ({ name, email, password }) => async (dispatch) => {$/;"	E
+removeCart	src/actions/cartActions.jsx	/^export const removeCart = () => (dispatch) => {$/;"	E
+removeItemFromCart	src/actions/cartActions.jsx	/^export const removeItemFromCart = (id) => async (dispatch, getState) => {$/;"	E
+reportWebVitals	src/reportWebVitals.js	/^const reportWebVitals = onPerfEntry => {$/;"	F
+reviews	src/pages/ProductDetailsPage.jsx	/^  reviews: {$/;"	P
+root	public/index.html	/^    <div id="root"><\/div>$/;"	i
+savePaymentMethod	src/actions/cartActions.jsx	/^export const savePaymentMethod = (paymentMethod) => (dispatch) => {$/;"	E
+saveShippingAddress	src/actions/cartActions.jsx	/^export const saveShippingAddress = (shippingAddress) => ($/;"	E
+shippingAddress	src/reducers/cartReducers.jsx	/^        shippingAddress: payload,$/;"	P
+shippingAddress	src/reducers/cartReducers.jsx	/^        shippingAddress: {},$/;"	P
+shippingAddress	src/store.jsx	/^    shippingAddress: shippingAddressFromLocal,$/;"	P
+steps	src/components/CheckoutStep.jsx	/^const steps = ["Sign in", "Shipping", "Payment", "Place Order"];$/;"	A
+success	src/pages/ProductDetailsPage.jsx	/^    success: successReview,$/;"	P
+success	src/pages/admin/ProductCreatePage.jsx	/^    success: successCreate,$/;"	P
+success	src/pages/admin/ProductsPage.jsx	/^    success: successDelete,$/;"	P
+success	src/pages/admin/UserProfilePage.jsx	/^    success: successUpdateAdmin,$/;"	P
+success	src/pages/admin/UsersPage.jsx	/^    success: successDelete,$/;"	P
+success	src/reducers/orderReducers.jsx	/^        success: true,$/;"	P
+success	src/reducers/productReducers.jsx	/^        success: true,$/;"	P
+success	src/reducers/userReducers.jsx	/^        success: true,$/;"	P
+title	src/pages/LoginPage.jsx	/^  title: {$/;"	P
+title	src/pages/RegisterPage.jsx	/^  title: {$/;"	P
+title	src/pages/admin/ProductCreatePage.jsx	/^  title: {$/;"	P
+title	src/pages/admin/ProductEditPage.jsx	/^  title: {$/;"	P
+title	src/pages/admin/UserProfilePage.jsx	/^  title: {$/;"	P
+top	src/pages/admin/ProductsPage.jsx	/^    top: "80vh",$/;"	P
+top	src/pages/admin/UsersPage.jsx	/^    top: "80vh",$/;"	P
+type	src/actions/cartActions.jsx	/^      type: CART_ADD_ITEM,$/;"	P
+type	src/actions/cartActions.jsx	/^      type: PRODUCT_DETAILS_FAIL,$/;"	P
+type	src/actions/cartActions.jsx	/^    type: CART_SAVE_SHIPPING_ADDRESS,$/;"	P
+type	src/actions/categoryActions.jsx	/^      type: CATEGORY_LIST_FAIL,$/;"	P
+type	src/actions/orderActions.jsx	/^      type: ORDER_CREATE_FAIL,$/;"	P
+type	src/actions/orderActions.jsx	/^      type: ORDER_DELIVER_FAIL,$/;"	P
+type	src/actions/orderActions.jsx	/^      type: ORDER_DETAILS_FAIL,$/;"	P
+type	src/actions/orderActions.jsx	/^      type: ORDER_LIST_ADMIN_FAIL,$/;"	P
+type	src/actions/orderActions.jsx	/^      type: ORDER_LIST_FAIL,$/;"	P
+type	src/actions/orderActions.jsx	/^      type: ORDER_PAY_FAIL,$/;"	P
+type	src/actions/productActions.jsx	/^      type: PRODUCTS_LIST_FAIL,$/;"	P
+type	src/actions/productActions.jsx	/^      type: PRODUCT_CREATE_FAIL,$/;"	P
+type	src/actions/productActions.jsx	/^      type: PRODUCT_CREATE_REVIEW_FAIL,$/;"	P
+type	src/actions/productActions.jsx	/^      type: PRODUCT_DELETE_FAIL,$/;"	P
+type	src/actions/productActions.jsx	/^      type: PRODUCT_DETAILS_FAIL,$/;"	P
+type	src/actions/productActions.jsx	/^      type: PRODUCT_UPDATE_FAIL,$/;"	P
+type	src/actions/userActions.jsx	/^      type: USERS_LIST_FAIL,$/;"	P
+type	src/actions/userActions.jsx	/^      type: USER_DELETE_FAIL,$/;"	P
+type	src/actions/userActions.jsx	/^      type: USER_DETAILS_FAIL,$/;"	P
+type	src/actions/userActions.jsx	/^      type: USER_LOGIN_FAIL,$/;"	P
+type	src/actions/userActions.jsx	/^      type: USER_REGISTER_FAIL,$/;"	P
+type	src/actions/userActions.jsx	/^      type: USER_UPDATE_ADMIN_FAIL,$/;"	P
+type	src/actions/userActions.jsx	/^      type: USER_UPDATE_FAIL,$/;"	P
+updateProduct	src/actions/productActions.jsx	/^export const updateProduct = (product) => async (dispatch, getState) => {$/;"	E
+updateUserDetails	src/actions/userActions.jsx	/^export const updateUserDetails = (user, admin = false) => async ($/;"	E
+updateUserDetailsByAdmin	src/actions/userActions.jsx	/^export const updateUserDetailsByAdmin = (user) => async ($/;"	E
+useQuery	src/utils/useQuery.jsx	/^export const useQuery = () => {$/;"	E
+useStyles	src/components/ButtonBack.jsx	/^const useStyles = makeStyles((theme) => ({$/;"	F
+useStyles	src/components/FormContainer.jsx	/^const useStyles = makeStyles(() => ({$/;"	F
+useStyles	src/components/Header.jsx	/^const useStyles = makeStyles(() => ({$/;"	F
+useStyles	src/components/LinkHeader.jsx	/^const useStyles = makeStyles(() => ({$/;"	F
+useStyles	src/components/Product.jsx	/^const useStyles = makeStyles(() => ({$/;"	F
+useStyles	src/components/SearchBox.jsx	/^const useStyles = makeStyles(() => ({$/;"	F
+useStyles	src/pages/CartPage.jsx	/^const useStyles = makeStyles((theme) => ({$/;"	F
+useStyles	src/pages/HomePage.jsx	/^const useStyles = makeStyles(() => ({$/;"	F
+useStyles	src/pages/LoginPage.jsx	/^const useStyles = makeStyles(() => ({$/;"	F
+useStyles	src/pages/OrderPage.jsx	/^const useStyles = makeStyles(() => ({$/;"	F
+useStyles	src/pages/ProductDetailsPage.jsx	/^const useStyles = makeStyles(() => ({$/;"	F
+useStyles	src/pages/RegisterPage.jsx	/^const useStyles = makeStyles(() => ({$/;"	F
+useStyles	src/pages/admin/ProductCreatePage.jsx	/^const useStyles = makeStyles((theme) => ({$/;"	F
+useStyles	src/pages/admin/ProductEditPage.jsx	/^const useStyles = makeStyles((theme) => ({$/;"	F
+useStyles	src/pages/admin/ProductsPage.jsx	/^const useStyles = makeStyles((theme) => ({$/;"	F
+useStyles	src/pages/admin/UserProfilePage.jsx	/^const useStyles = makeStyles(() => ({$/;"	F
+useStyles	src/pages/admin/UsersPage.jsx	/^const useStyles = makeStyles((theme) => ({$/;"	F
+user	src/reducers/userReducers.jsx	/^        user: payload,$/;"	P
+user	src/reducers/userReducers.jsx	/^        user: {},$/;"	P
+userDelete	src/pages/admin/UsersPage.jsx	/^  const userDelete = useSelector((state) => state.userDelete);$/;"	F
+userDelete	src/store.jsx	/^  userDelete: userDeleteReducer,$/;"	P
+userDeleteReducer	src/reducers/userReducers.jsx	/^export const userDeleteReducer = (state = {}, action) => {$/;"	E
+userDetails	src/pages/ProfilePage.jsx	/^  const userDetails = useSelector((state) => state.userDetails);$/;"	F
+userDetails	src/pages/admin/UserProfilePage.jsx	/^  const userDetails = useSelector((state) => state.userDetails);$/;"	F
+userDetails	src/store.jsx	/^  userDetails: userDetailsReducer,$/;"	P
+userDetailsPage	src/pages/admin/UserProfilePage.jsx	/^  userDetailsPage: {$/;"	P
+userDetailsReducer	src/reducers/userReducers.jsx	/^export const userDetailsReducer = (state = { user: {} }, action) => {$/;"	E
+userInfo	src/reducers/userReducers.jsx	/^        userInfo: payload,$/;"	P
+userLogin	src/components/Header.jsx	/^  const userLogin = useSelector((state) => state.userLogin);$/;"	F
+userLogin	src/pages/CartPage.jsx	/^  const userLogin = useSelector((state) => state.userLogin);$/;"	F
+userLogin	src/pages/LoginPage.jsx	/^  const userLogin = useSelector((state) => state.userLogin);$/;"	F
+userLogin	src/pages/OrderPage.jsx	/^  const userLogin = useSelector((state) => state.userLogin);$/;"	F
+userLogin	src/pages/PlaceOrderPage.jsx	/^  const userLogin = useSelector((state) => state.userLogin);$/;"	F
+userLogin	src/pages/ProductDetailsPage.jsx	/^  const userLogin = useSelector((state) => state.userLogin);$/;"	F
+userLogin	src/pages/ProfilePage.jsx	/^  const userLogin = useSelector((state) => state.userLogin);$/;"	F
+userLogin	src/pages/admin/OrdersPage.jsx	/^  const userLogin = useSelector((state) => state.userLogin);$/;"	F
+userLogin	src/pages/admin/ProductCreatePage.jsx	/^  const userLogin = useSelector((state) => state.userLogin);$/;"	F
+userLogin	src/pages/admin/ProductEditPage.jsx	/^  const userLogin = useSelector((state) => state.userLogin);$/;"	F
+userLogin	src/pages/admin/ProductsPage.jsx	/^  const userLogin = useSelector((state) => state.userLogin);$/;"	F
+userLogin	src/pages/admin/UserProfilePage.jsx	/^  const userLogin = useSelector((state) => state.userLogin);$/;"	F
+userLogin	src/pages/admin/UsersPage.jsx	/^  const userLogin = useSelector((state) => state.userLogin);$/;"	F
+userLogin	src/store.jsx	/^  userLogin: userLoginReducer,$/;"	P
+userLogin	src/store.jsx	/^  userLogin: { userInfo: userInfoFromLocal },$/;"	P
+userLoginReducer	src/reducers/userReducers.jsx	/^export const userLoginReducer = (state = {}, action) => {$/;"	E
+userRegister	src/pages/RegisterPage.jsx	/^  const userRegister = useSelector((state) => state.userRegister);$/;"	F
+userRegister	src/store.jsx	/^  userRegister: userRegisterReducer,$/;"	P
+userRegisterReducer	src/reducers/userReducers.jsx	/^export const userRegisterReducer = (state = {}, action) => {$/;"	E
+userUpdate	src/pages/ProfilePage.jsx	/^  const userUpdate = useSelector((state) => state.userUpdate);$/;"	F
+userUpdate	src/store.jsx	/^  userUpdate: userUpdateReducer,$/;"	P
+userUpdateAdmin	src/pages/admin/UserProfilePage.jsx	/^  const userUpdateAdmin = useSelector((state) => state.userUpdateAdmin);$/;"	F
+userUpdateAdmin	src/store.jsx	/^  userUpdateAdmin: userUpdateAdminReducer,$/;"	P
+userUpdateAdminReducer	src/reducers/userReducers.jsx	/^export const userUpdateAdminReducer = (state = {}, action) => {$/;"	E
+userUpdateReducer	src/reducers/userReducers.jsx	/^export const userUpdateReducer = (state = {}, action) => {$/;"	E
+users	src/reducers/userReducers.jsx	/^        users: payload,$/;"	P
+usersList	src/pages/admin/UsersPage.jsx	/^  const usersList = useSelector((state) => state.usersList);$/;"	F
+usersList	src/store.jsx	/^  usersList: usersListReducer,$/;"	P
+usersListReducer	src/reducers/userReducers.jsx	/^export const usersListReducer = (state = { users: [] }, action) => {$/;"	E
